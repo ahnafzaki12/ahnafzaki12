@@ -29,23 +29,31 @@
 
 <br>
 
-## Selected Work
+## Experience
 
-**Unit Pengembangan Karir UPN "Veteran" Jawa Timur** — career platform for students & graduates. React · Laravel · MySQL · Tailwind CSS
+**Full-Stack Developer · Rintisar** — *May 2026 – Aug 2026*
+Built full-stack web & mobile features across two production systems — an HR management platform (React, Flutter, Golang) and an event ticketing platform (Laravel, React) — owning API integration end-to-end.
 
-**HR Management System** — web & Android HR platform built during internship. React · Flutter · Golang
+**Frontend Developer · CV FlyHigh Sinergi Indonesia** — *Aug 2025 – Dec 2025*
+Shipped responsive, production UI components with React and Tailwind CSS, working directly with backend teams on API integration and UI/UX consistency.
 
-**Event Ticketing System** — event management & ticketing platform. Laravel · React
+<br>
 
-**Customer Segmentation & Business Insight Platform** — RFM analysis and K-Means clustering for business strategy, served via API. FastAPI · Next.js · Jupyter
+## Why Work With Me
+
+- ✅ Shipped features on **real production systems**, not just tutorials — internships, not just coursework
+- ✅ Comfortable across the **entire stack**: React/Next.js frontends, Laravel & Golang backends, MySQL/PostgreSQL data
+- ✅ Applied data science to a business problem — RFM & K-Means customer segmentation served through an API
+- ✅ 5 certifications completed (Dicoding, Udemy) covering full-stack fundamentals and programming logic
+- ✅ GPA 3.91/4.00 while working through two internships in parallel
 
 <br>
 
 ## GitHub Overview
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-chi-one-44.vercel.app/api?username=ahnafzaki12&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img width="41%" src="https://github-readme-stats-chi-one-44.vercel.app/api/top-langs/?username=ahnafzaki12&layout=compact&hide_border=true&theme=default" />
+  <img width="49%" src="https://github-readme-stats-eight-swart-55.vercel.app/api?username=ahnafzaki12&show_icons=true&hide_border=true&theme=default&count_private=true" />
+  <img width="41%" src="https://github-readme-stats-eight-swart-55.vercel.app/api/top-langs/?username=ahnafzaki12&layout=compact&hide_border=true&theme=default" />
 </div>
 
 <div align="center">
