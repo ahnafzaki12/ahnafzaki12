@@ -6,4 +6,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=ahnafzaki12&show_icons=true&theme=radial)
 
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/USERNAME_KAMU/ahnafzaki12/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ahnafzaki12/output/github-contribution-grid-snake.svg)
