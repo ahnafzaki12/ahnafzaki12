@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm M Ahnaf Zaki 👋</h1>
-  <h3>Website & Application Developer</h3>
+  <h3>Software Developer</h3>
   
   <p align="center">
     <a href="https://ahnafzaki.vercel.app" target="_blank">
@@ -17,20 +17,20 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 7th-semester Information Systems student at UPN "Veteran" East Java.
-- 💻 Experienced in full-stack development building scalable web and mobile applications.
-- 🤖 Currently expanding my expertise in Artificial Intelligence, Machine Learning, and Deep Learning.
-- 🌱 Committed to building efficient and innovative software solutions.
+-  7th-semester Information Systems student at UPN "Veteran" East Java.
+-  Experienced in full-stack development building scalable web and mobile applications.
+-  Currently expanding my expertise in Artificial Intelligence, Machine Learning, and Deep Learning.
+-  Committed to building efficient and innovative software solutions.
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,laravel,golang,python,dart,flutter,mysql,postgres,tailwind,git,github" alt="Tech Stack Icons" />
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafzaki12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
