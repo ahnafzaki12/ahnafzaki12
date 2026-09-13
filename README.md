@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm M Ahnaf Zaki 👋</h1>
-  <h3>Software Developer</h3>
+  <h3>Website & Application Developer</h3>
   
   <p align="center">
     <a href="https://ahnafzaki.vercel.app" target="_blank">
@@ -33,8 +33,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-swart-55.vercel.app/api?username=ahnafzaki12&show_icons=true&hide_border=true&theme=transparent" alt="Ahnaf Zaki's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-swart-55.vercel.app/api/top-langs/?username=ahnafzaki12&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafzaki12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahnafzaki12&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahnafzaki12&theme=tokyonight" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahnafzaki12&theme=tokyonight" alt="Top Languages by Commit" width="49%" />
 </p>
 
 ### 🐍 Contribution Graph
